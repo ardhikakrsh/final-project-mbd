@@ -1,3 +1,11 @@
+<div align=center>
+
+|    NRP     |          Name           |
+| :--------: | :---------------------: |
+| 5025221006 | Ardhika Krishna Wijaya |
+| 5025221187 | Fatiya Izzati  |
+| 5025221274 |   Muhammad Iqbal Ramadhan    |
+
 # [Soft UI Dashboard Laravel](https://soft-ui-dashboard-laravel.creative-tim.com/login)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
